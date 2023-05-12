@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Diah Putri Nofianti</h1>
 <h3 align="center">An IT student from Malang, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diaputr&label=Profile%20views&color=0e75b6&style=flat" alt="diaputr" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaputr" alt="diaputr" /></a> </p>
 
 - 🔭 I’m currently working on **Project-Based Virtual Intern : UI/UX Designer FundEx x Rakamin Academy**
