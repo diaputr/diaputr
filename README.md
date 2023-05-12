@@ -5,16 +5,16 @@
 
 - 🤝 I’m looking for help with [Ganchibi](https://ganchibi-nega.diaputr.repl.co/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/update/urn:li:activity:7062343811842113536/](https://www.linkedin.com/feed/update/urn:li:activity:7062343811842113536/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.linkedin.com/feed/update/urn:li:activity:7062343811842113536/)
 
 - 📫 How to reach me **diahputrinofianti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wJs2Mg9sCegbuSkco7VM3cFD8ubVK2K/view](https://drive.google.com/file/d/11wJs2Mg9sCegbuSkco7VM3cFD8ubVK2K/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11wJs2Mg9sCegbuSkco7VM3cFD8ubVK2K/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/diahputrinofianti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/diahputrinofianti" height="30" width="40" /></a>
 <a href="https://fb.com/diah.cuput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diah.cuput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diahputrinofianti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/diahputrinofianti" height="30" width="40" /></a>
 <a href="https://instagram.com/diaputr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diaputr_" height="30" width="40" /></a>
 </p>
 
