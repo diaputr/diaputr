@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i.gifer.com/ByHv.gif)](https://rishavchanda.io)
 <h1 align="center">Alo 👋 I'm Diah Putri Nofianti</h1>
 <h3 align="center">An IT student from Malang, Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaputr&label=Profile%20views&color=0e75b6&style=flat"/> </p>
