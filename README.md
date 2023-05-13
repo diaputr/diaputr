@@ -1,5 +1,5 @@
 [![Header](https://cutewallpaper.org/27/awesome-anime-girls-listening-to-music-hd-wallpaper/2507720441.jpg "Header")](https://martinheinz.dev/)
-<h1 align="center">Alo 👋 I'm Diah Putri Nofianti</h1>
+<h1 align="center">Alo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Diah Putri Nofianti</h1>
 <h3 align="center">An IT student from Malang, Indonesia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diaputr&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <p align="center"><img width="50%" src="https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?ssl=1"> </p>
@@ -34,7 +34,8 @@
 
 #
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaputr&show_icons=true&locale=en&layout=compact" alt="diaputr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaputr&show_icons=true&locale=en" alt="diaputr" /></p>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaputr&show_icons=true&locale=en" alt="diaputr" /></p>
 
