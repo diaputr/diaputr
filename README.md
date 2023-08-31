@@ -7,7 +7,7 @@
 
 #
 
-- 🔭 I’m currently working on **Aksarana Konsultan as Design Graphic Intern**
+- 🔭 I’m currently working on **Aksarana Konsultan as Graphic Design Intern**
 
 - 🌱 I’m currently learning **Java, Laravel, MySQL**
 
