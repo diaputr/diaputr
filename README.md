@@ -7,7 +7,7 @@
 
 #
 
-- 🔭 I’m currently working on **Project-Based Virtual Intern : Graphic Designer FundEx x Rakamin Academy**
+- 🔭 I’m currently working on **Aksarana Konsultan as Design Graphic Intern**
 
 - 🌱 I’m currently learning **Java, Laravel, MySQL**
 
