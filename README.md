@@ -7,9 +7,7 @@
 
 #
 
-- 🔭 I’m currently working on **Aksarana Konsultan as Graphic Design Intern**
-
-- 🌱 I’m currently learning **Computer Vision, Decision Support Systems, Flutter, and Machine Learning**
+- 🌱 I’m currently learning **Game Design & Development at Celerates**
 
 - 🤝 I’m looking for help with [Ganchibi](https://ganchibi-nega.diaputr.repl.co/)
 
