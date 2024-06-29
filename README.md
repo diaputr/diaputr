@@ -1,4 +1,4 @@
-[![Header](https://drive.google.com/file/d/1U9vr8TBU-zrFdTNxXDlzQ_E4WckUc4dX/view?usp=sharing "Header")](https://martinheinz.dev/)
+[![Header](https://img.itch.zone/aW1nLzE2MjM5NTY1LnBuZw==/original/374gor.png "Header")](https://martinheinz.dev/)
 <h1 align="center">Alo, I'm Diah Putri Nofianti~!</h1>
 <h3 align="center">An IT student from Malang, Indonesia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diaputr&label=Profile%20views&color=0e75b6&style=flat"/> </p>
