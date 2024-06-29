@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Game Design & Development**
 
-- 🤝 I’m looking for help in [Itch.io](https://diaputr.itch.io/)
+- 🤝 I’m looking for help to playtesting in [Itch.io](https://diaputr.itch.io/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/portfolio-diaputr)
 
